@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokencetch",
+        "uuid": 5237442,
+        "checksum": "h4g7nd"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
